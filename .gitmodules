@@ -1,0 +1,3 @@
+[submodule "examples/PS-JS-Tools"]
+	path = examples/PS-JS-Tools
+	url = https://github.com/bxt/Photoshop-Javascript-Tools.git

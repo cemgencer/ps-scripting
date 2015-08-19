@@ -1,0 +1,1413 @@
+﻿{
+	"bookID": 1000,
+	"bookName": "W3C Color Names",
+	"colorNamePrefix": "W3C ",
+	"colorNameSuffix": "",
+	"bookDescription": "",
+	"colorsPerPage": 5,
+	"keyColorPage": 2,
+	"colorSpace": "RGB",
+	"colors":
+	[
+		{
+			"colorName": "Alice Blue",
+			"colorKey": "W3C000",
+			"components":
+			[
+				240,
+				248,
+				255
+			]
+		},
+		{
+			"colorName": "Antique White",
+			"colorKey": "W3C001",
+			"components":
+			[
+				250,
+				235,
+				215
+			]
+		},
+		{
+			"colorName": "Aqua",
+			"colorKey": "W3C002",
+			"components":
+			[
+				0,
+				255,
+				255
+			]
+		},
+		{
+			"colorName": "Aquamarine",
+			"colorKey": "W3C003",
+			"components":
+			[
+				127,
+				255,
+				212
+			]
+		},
+		{
+			"colorName": "Azure",
+			"colorKey": "W3C004",
+			"components":
+			[
+				240,
+				255,
+				255
+			]
+		},
+		{
+			"colorName": "Beige",
+			"colorKey": "W3C005",
+			"components":
+			[
+				245,
+				245,
+				220
+			]
+		},
+		{
+			"colorName": "Bisque",
+			"colorKey": "W3C006",
+			"components":
+			[
+				255,
+				228,
+				196
+			]
+		},
+		{
+			"colorName": "Black",
+			"colorKey": "W3C007",
+			"components":
+			[
+				0,
+				0,
+				0
+			]
+		},
+		{
+			"colorName": "Blanched Almond",
+			"colorKey": "W3C008",
+			"components":
+			[
+				255,
+				235,
+				205
+			]
+		},
+		{
+			"colorName": "Blue",
+			"colorKey": "W3C009",
+			"components":
+			[
+				0,
+				0,
+				255
+			]
+		},
+		{
+			"colorName": "Blue Violet",
+			"colorKey": "W3C010",
+			"components":
+			[
+				138,
+				43,
+				226
+			]
+		},
+		{
+			"colorName": "Brown",
+			"colorKey": "W3C011",
+			"components":
+			[
+				165,
+				42,
+				42
+			]
+		},
+		{
+			"colorName": "Burlywood",
+			"colorKey": "W3C012",
+			"components":
+			[
+				222,
+				184,
+				135
+			]
+		},
+		{
+			"colorName": "Cadet Blue",
+			"colorKey": "W3C013",
+			"components":
+			[
+				95,
+				158,
+				160
+			]
+		},
+		{
+			"colorName": "Chartreuse",
+			"colorKey": "W3C014",
+			"components":
+			[
+				127,
+				255,
+				0
+			]
+		},
+		{
+			"colorName": "Chocolate",
+			"colorKey": "W3C015",
+			"components":
+			[
+				210,
+				105,
+				30
+			]
+		},
+		{
+			"colorName": "Coral",
+			"colorKey": "W3C016",
+			"components":
+			[
+				255,
+				127,
+				80
+			]
+		},
+		{
+			"colorName": "Cornflower Blue",
+			"colorKey": "W3C017",
+			"components":
+			[
+				100,
+				149,
+				237
+			]
+		},
+		{
+			"colorName": "Cornsilk",
+			"colorKey": "W3C018",
+			"components":
+			[
+				255,
+				248,
+				220
+			]
+		},
+		{
+			"colorName": "Crimson",
+			"colorKey": "W3C019",
+			"components":
+			[
+				220,
+				20,
+				60
+			]
+		},
+		{
+			"colorName": "Cyan",
+			"colorKey": "W3C020",
+			"components":
+			[
+				0,
+				255,
+				255
+			]
+		},
+		{
+			"colorName": "Dark Blue",
+			"colorKey": "W3C021",
+			"components":
+			[
+				0,
+				0,
+				139
+			]
+		},
+		{
+			"colorName": "Dark Cyan",
+			"colorKey": "W3C022",
+			"components":
+			[
+				0,
+				139,
+				139
+			]
+		},
+		{
+			"colorName": "Dark Goldenrod",
+			"colorKey": "W3C023",
+			"components":
+			[
+				184,
+				134,
+				11
+			]
+		},
+		{
+			"colorName": "Dark Gray",
+			"colorKey": "W3C024",
+			"components":
+			[
+				169,
+				169,
+				169
+			]
+		},
+		{
+			"colorName": "Dark Green",
+			"colorKey": "W3C025",
+			"components":
+			[
+				0,
+				100,
+				0
+			]
+		},
+		{
+			"colorName": "Dark Khaki",
+			"colorKey": "W3C027",
+			"components":
+			[
+				189,
+				183,
+				107
+			]
+		},
+		{
+			"colorName": "Dark Magenta",
+			"colorKey": "W3C028",
+			"components":
+			[
+				139,
+				0,
+				139
+			]
+		},
+		{
+			"colorName": "Dark Olive Green",
+			"colorKey": "W3C029",
+			"components":
+			[
+				85,
+				107,
+				47
+			]
+		},
+		{
+			"colorName": "Dark Orange",
+			"colorKey": "W3C030",
+			"components":
+			[
+				255,
+				140,
+				0
+			]
+		},
+		{
+			"colorName": "Dark Orchid",
+			"colorKey": "W3C031",
+			"components":
+			[
+				153,
+				50,
+				204
+			]
+		},
+		{
+			"colorName": "Dark Red",
+			"colorKey": "W3C032",
+			"components":
+			[
+				139,
+				0,
+				0
+			]
+		},
+		{
+			"colorName": "Dark Salmon",
+			"colorKey": "W3C033",
+			"components":
+			[
+				233,
+				150,
+				122
+			]
+		},
+		{
+			"colorName": "Dark Sea Green",
+			"colorKey": "W3C034",
+			"components":
+			[
+				143,
+				188,
+				143
+			]
+		},
+		{
+			"colorName": "Dark Slate Blue",
+			"colorKey": "W3C035",
+			"components":
+			[
+				72,
+				61,
+				139
+			]
+		},
+		{
+			"colorName": "Dark Slate Gray",
+			"colorKey": "W3C036",
+			"components":
+			[
+				47,
+				79,
+				79
+			]
+		},
+		{
+			"colorName": "Dark Turquoise",
+			"colorKey": "W3C038",
+			"components":
+			[
+				0,
+				206,
+				209
+			]
+		},
+		{
+			"colorName": "Dark Violet",
+			"colorKey": "W3C039",
+			"components":
+			[
+				148,
+				0,
+				211
+			]
+		},
+		{
+			"colorName": "Deep Pink",
+			"colorKey": "W3C040",
+			"components":
+			[
+				255,
+				20,
+				147
+			]
+		},
+		{
+			"colorName": "Deep Sky Blue",
+			"colorKey": "W3C041",
+			"components":
+			[
+				0,
+				191,
+				255
+			]
+		},
+		{
+			"colorName": "Dim Gray",
+			"colorKey": "W3C042",
+			"components":
+			[
+				105,
+				105,
+				105
+			]
+		},
+		{
+			"colorName": "Dodger Blue",
+			"colorKey": "W3C044",
+			"components":
+			[
+				30,
+				144,
+				255
+			]
+		},
+		{
+			"colorName": "Firebrick",
+			"colorKey": "W3C045",
+			"components":
+			[
+				178,
+				34,
+				34
+			]
+		},
+		{
+			"colorName": "Floral White",
+			"colorKey": "W3C046",
+			"components":
+			[
+				255,
+				250,
+				240
+			]
+		},
+		{
+			"colorName": "Forest Green",
+			"colorKey": "W3C047",
+			"components":
+			[
+				34,
+				139,
+				34
+			]
+		},
+		{
+			"colorName": "Fuchsia",
+			"colorKey": "W3C048",
+			"components":
+			[
+				255,
+				0,
+				255
+			]
+		},
+		{
+			"colorName": "Gainsboro",
+			"colorKey": "W3C049",
+			"components":
+			[
+				220,
+				220,
+				220
+			]
+		},
+		{
+			"colorName": "Ghost White",
+			"colorKey": "W3C050",
+			"components":
+			[
+				248,
+				248,
+				255
+			]
+		},
+		{
+			"colorName": "Gold",
+			"colorKey": "W3C051",
+			"components":
+			[
+				255,
+				215,
+				0
+			]
+		},
+		{
+			"colorName": "Goldenrod",
+			"colorKey": "W3C052",
+			"components":
+			[
+				218,
+				165,
+				32
+			]
+		},
+		{
+			"colorName": "Gray",
+			"colorKey": "W3C053",
+			"components":
+			[
+				128,
+				128,
+				128
+			]
+		},
+		{
+			"colorName": "Green",
+			"colorKey": "W3C054",
+			"components":
+			[
+				0,
+				128,
+				0
+			]
+		},
+		{
+			"colorName": "Green Yellow",
+			"colorKey": "W3C055",
+			"components":
+			[
+				173,
+				255,
+				47
+			]
+		},
+		{
+			"colorName": "Honeydew",
+			"colorKey": "W3C057",
+			"components":
+			[
+				240,
+				255,
+				240
+			]
+		},
+		{
+			"colorName": "Hot Pink",
+			"colorKey": "W3C058",
+			"components":
+			[
+				255,
+				105,
+				180
+			]
+		},
+		{
+			"colorName": "Indian Red",
+			"colorKey": "W3C059",
+			"components":
+			[
+				205,
+				92,
+				92
+			]
+		},
+		{
+			"colorName": "Indigo",
+			"colorKey": "W3C060",
+			"components":
+			[
+				75,
+				0,
+				130
+			]
+		},
+		{
+			"colorName": "Ivory",
+			"colorKey": "W3C061",
+			"components":
+			[
+				255,
+				255,
+				240
+			]
+		},
+		{
+			"colorName": "Khaki",
+			"colorKey": "W3C062",
+			"components":
+			[
+				240,
+				230,
+				140
+			]
+		},
+		{
+			"colorName": "Lavender",
+			"colorKey": "W3C063",
+			"components":
+			[
+				230,
+				230,
+				250
+			]
+		},
+		{
+			"colorName": "Lavender Blush",
+			"colorKey": "W3C064",
+			"components":
+			[
+				255,
+				240,
+				245
+			]
+		},
+		{
+			"colorName": "Lawn Green",
+			"colorKey": "W3C065",
+			"components":
+			[
+				124,
+				252,
+				0
+			]
+		},
+		{
+			"colorName": "Lemon Chiffon",
+			"colorKey": "W3C066",
+			"components":
+			[
+				255,
+				250,
+				205
+			]
+		},
+		{
+			"colorName": "Light Blue",
+			"colorKey": "W3C067",
+			"components":
+			[
+				173,
+				216,
+				230
+			]
+		},
+		{
+			"colorName": "Light Coral",
+			"colorKey": "W3C068",
+			"components":
+			[
+				240,
+				128,
+				128
+			]
+		},
+		{
+			"colorName": "Light Cyan",
+			"colorKey": "W3C069",
+			"components":
+			[
+				224,
+				255,
+				255
+			]
+		},
+		{
+			"colorName": "Light Goldenrod Yellow",
+			"colorKey": "W3C070",
+			"components":
+			[
+				250,
+				250,
+				210
+			]
+		},
+		{
+			"colorName": "Light Gray",
+			"colorKey": "W3C071",
+			"components":
+			[
+				211,
+				211,
+				211
+			]
+		},
+		{
+			"colorName": "Light Green",
+			"colorKey": "W3C072",
+			"components":
+			[
+				144,
+				238,
+				144
+			]
+		},
+		{
+			"colorName": "Light Pink",
+			"colorKey": "W3C074",
+			"components":
+			[
+				255,
+				182,
+				193
+			]
+		},
+		{
+			"colorName": "Light Salmon",
+			"colorKey": "W3C075",
+			"components":
+			[
+				255,
+				160,
+				122
+			]
+		},
+		{
+			"colorName": "Light Sea Green",
+			"colorKey": "W3C076",
+			"components":
+			[
+				32,
+				178,
+				170
+			]
+		},
+		{
+			"colorName": "Light Sky Blue",
+			"colorKey": "W3C077",
+			"components":
+			[
+				135,
+				206,
+				250
+			]
+		},
+		{
+			"colorName": "Light Slate Gray",
+			"colorKey": "W3C078",
+			"components":
+			[
+				119,
+				136,
+				153
+			]
+		},
+		{
+			"colorName": "Light Steel Blue",
+			"colorKey": "W3C080",
+			"components":
+			[
+				176,
+				196,
+				222
+			]
+		},
+		{
+			"colorName": "Light Yellow",
+			"colorKey": "W3C081",
+			"components":
+			[
+				255,
+				255,
+				224
+			]
+		},
+		{
+			"colorName": "Lime",
+			"colorKey": "W3C082",
+			"components":
+			[
+				0,
+				255,
+				0
+			]
+		},
+		{
+			"colorName": "Lime Green",
+			"colorKey": "W3C083",
+			"components":
+			[
+				50,
+				205,
+				50
+			]
+		},
+		{
+			"colorName": "Linen",
+			"colorKey": "W3C084",
+			"components":
+			[
+				250,
+				240,
+				230
+			]
+		},
+		{
+			"colorName": "Magenta",
+			"colorKey": "W3C085",
+			"components":
+			[
+				255,
+				0,
+				255
+			]
+		},
+		{
+			"colorName": "Maroon",
+			"colorKey": "W3C086",
+			"components":
+			[
+				128,
+				0,
+				0
+			]
+		},
+		{
+			"colorName": "Medium Aquamarine",
+			"colorKey": "W3C087",
+			"components":
+			[
+				102,
+				205,
+				170
+			]
+		},
+		{
+			"colorName": "Medium Blue",
+			"colorKey": "W3C088",
+			"components":
+			[
+				0,
+				0,
+				205
+			]
+		},
+		{
+			"colorName": "Medium Orchid",
+			"colorKey": "W3C089",
+			"components":
+			[
+				186,
+				85,
+				211
+			]
+		},
+		{
+			"colorName": "Medium Purple",
+			"colorKey": "W3C090",
+			"components":
+			[
+				147,
+				112,
+				219
+			]
+		},
+		{
+			"colorName": "Medium Sea Green",
+			"colorKey": "W3C091",
+			"components":
+			[
+				60,
+				179,
+				113
+			]
+		},
+		{
+			"colorName": "Medium Slate Blue",
+			"colorKey": "W3C092",
+			"components":
+			[
+				123,
+				104,
+				238
+			]
+		},
+		{
+			"colorName": "Medium Spring Green",
+			"colorKey": "W3C093",
+			"components":
+			[
+				0,
+				250,
+				154
+			]
+		},
+		{
+			"colorName": "Medium Turquoise",
+			"colorKey": "W3C094",
+			"components":
+			[
+				72,
+				209,
+				204
+			]
+		},
+		{
+			"colorName": "Medium Violet Red",
+			"colorKey": "W3C095",
+			"components":
+			[
+				199,
+				21,
+				133
+			]
+		},
+		{
+			"colorName": "Midnight Blue",
+			"colorKey": "W3C096",
+			"components":
+			[
+				25,
+				25,
+				112
+			]
+		},
+		{
+			"colorName": "Mint Cream",
+			"colorKey": "W3C097",
+			"components":
+			[
+				245,
+				255,
+				250
+			]
+		},
+		{
+			"colorName": "Misty Rose",
+			"colorKey": "W3C098",
+			"components":
+			[
+				255,
+				228,
+				225
+			]
+		},
+		{
+			"colorName": "Moccasin",
+			"colorKey": "W3C099",
+			"components":
+			[
+				255,
+				228,
+				181
+			]
+		},
+		{
+			"colorName": "Navajo White",
+			"colorKey": "W3C100",
+			"components":
+			[
+				255,
+				222,
+				173
+			]
+		},
+		{
+			"colorName": "Navy",
+			"colorKey": "W3C101",
+			"components":
+			[
+				0,
+				0,
+				128
+			]
+		},
+		{
+			"colorName": "Old Lace",
+			"colorKey": "W3C102",
+			"components":
+			[
+				253,
+				245,
+				230
+			]
+		},
+		{
+			"colorName": "Olive",
+			"colorKey": "W3C103",
+			"components":
+			[
+				128,
+				128,
+				0
+			]
+		},
+		{
+			"colorName": "Olive Drab",
+			"colorKey": "W3C104",
+			"components":
+			[
+				107,
+				142,
+				35
+			]
+		},
+		{
+			"colorName": "Orange",
+			"colorKey": "W3C105",
+			"components":
+			[
+				255,
+				165,
+				0
+			]
+		},
+		{
+			"colorName": "Orange Red",
+			"colorKey": "W3C106",
+			"components":
+			[
+				255,
+				69,
+				0
+			]
+		},
+		{
+			"colorName": "Orchid",
+			"colorKey": "W3C107",
+			"components":
+			[
+				218,
+				112,
+				214
+			]
+		},
+		{
+			"colorName": "Pale Goldenrod",
+			"colorKey": "W3C108",
+			"components":
+			[
+				238,
+				232,
+				170
+			]
+		},
+		{
+			"colorName": "Pale Green",
+			"colorKey": "W3C109",
+			"components":
+			[
+				152,
+				251,
+				152
+			]
+		},
+		{
+			"colorName": "Pale Turquoise",
+			"colorKey": "W3C110",
+			"components":
+			[
+				175,
+				238,
+				238
+			]
+		},
+		{
+			"colorName": "Pale Violet Red",
+			"colorKey": "W3C111",
+			"components":
+			[
+				219,
+				112,
+				147
+			]
+		},
+		{
+			"colorName": "Papaya Whip",
+			"colorKey": "W3C112",
+			"components":
+			[
+				255,
+				239,
+				213
+			]
+		},
+		{
+			"colorName": "Peach Puff",
+			"colorKey": "W3C113",
+			"components":
+			[
+				255,
+				218,
+				185
+			]
+		},
+		{
+			"colorName": "Peru",
+			"colorKey": "W3C114",
+			"components":
+			[
+				205,
+				133,
+				63
+			]
+		},
+		{
+			"colorName": "Pink",
+			"colorKey": "W3C115",
+			"components":
+			[
+				255,
+				192,
+				203
+			]
+		},
+		{
+			"colorName": "Plum",
+			"colorKey": "W3C116",
+			"components":
+			[
+				221,
+				160,
+				221
+			]
+		},
+		{
+			"colorName": "Powder Blue",
+			"colorKey": "W3C117",
+			"components":
+			[
+				176,
+				224,
+				230
+			]
+		},
+		{
+			"colorName": "Purple",
+			"colorKey": "W3C118",
+			"components":
+			[
+				128,
+				0,
+				128
+			]
+		},
+		{
+			"colorName": "Red",
+			"colorKey": "W3C119",
+			"components":
+			[
+				255,
+				0,
+				0
+			]
+		},
+		{
+			"colorName": "Rosy Brown",
+			"colorKey": "W3C120",
+			"components":
+			[
+				188,
+				143,
+				143
+			]
+		},
+		{
+			"colorName": "Royal Blue",
+			"colorKey": "W3C121",
+			"components":
+			[
+				65,
+				105,
+				225
+			]
+		},
+		{
+			"colorName": "Saddle Brown",
+			"colorKey": "W3C122",
+			"components":
+			[
+				139,
+				69,
+				19
+			]
+		},
+		{
+			"colorName": "Salmon",
+			"colorKey": "W3C123",
+			"components":
+			[
+				250,
+				128,
+				114
+			]
+		},
+		{
+			"colorName": "Sandy Brown",
+			"colorKey": "W3C124",
+			"components":
+			[
+				244,
+				164,
+				96
+			]
+		},
+		{
+			"colorName": "Sea Green",
+			"colorKey": "W3C125",
+			"components":
+			[
+				46,
+				139,
+				87
+			]
+		},
+		{
+			"colorName": "Seashell",
+			"colorKey": "W3C126",
+			"components":
+			[
+				255,
+				245,
+				238
+			]
+		},
+		{
+			"colorName": "Sienna",
+			"colorKey": "W3C127",
+			"components":
+			[
+				160,
+				82,
+				45
+			]
+		},
+		{
+			"colorName": "Silver",
+			"colorKey": "W3C128",
+			"components":
+			[
+				192,
+				192,
+				192
+			]
+		},
+		{
+			"colorName": "Sky Blue",
+			"colorKey": "W3C129",
+			"components":
+			[
+				135,
+				206,
+				235
+			]
+		},
+		{
+			"colorName": "Slate Blue",
+			"colorKey": "W3C130",
+			"components":
+			[
+				106,
+				90,
+				205
+			]
+		},
+		{
+			"colorName": "Slate Gray",
+			"colorKey": "W3C131",
+			"components":
+			[
+				112,
+				128,
+				144
+			]
+		},
+		{
+			"colorName": "Snow",
+			"colorKey": "W3C133",
+			"components":
+			[
+				255,
+				250,
+				250
+			]
+		},
+		{
+			"colorName": "Spring Green",
+			"colorKey": "W3C134",
+			"components":
+			[
+				0,
+				255,
+				127
+			]
+		},
+		{
+			"colorName": "Steel Blue",
+			"colorKey": "W3C135",
+			"components":
+			[
+				70,
+				130,
+				180
+			]
+		},
+		{
+			"colorName": "Tan",
+			"colorKey": "W3C136",
+			"components":
+			[
+				210,
+				180,
+				140
+			]
+		},
+		{
+			"colorName": "Teal",
+			"colorKey": "W3C137",
+			"components":
+			[
+				0,
+				128,
+				128
+			]
+		},
+		{
+			"colorName": "Thistle",
+			"colorKey": "W3C138",
+			"components":
+			[
+				216,
+				191,
+				216
+			]
+		},
+		{
+			"colorName": "Tomato",
+			"colorKey": "W3C139",
+			"components":
+			[
+				255,
+				99,
+				71
+			]
+		},
+		{
+			"colorName": "Turquoise",
+			"colorKey": "W3C140",
+			"components":
+			[
+				64,
+				224,
+				208
+			]
+		},
+		{
+			"colorName": "Violet",
+			"colorKey": "W3C141",
+			"components":
+			[
+				238,
+				130,
+				238
+			]
+		},
+		{
+			"colorName": "Wheat",
+			"colorKey": "W3C142",
+			"components":
+			[
+				245,
+				222,
+				179
+			]
+		},
+		{
+			"colorName": "White",
+			"colorKey": "W3C143",
+			"components":
+			[
+				255,
+				255,
+				255
+			]
+		},
+		{
+			"colorName": "White Smoke",
+			"colorKey": "W3C144",
+			"components":
+			[
+				245,
+				245,
+				245
+			]
+		},
+		{
+			"colorName": "Yellow",
+			"colorKey": "W3C145",
+			"components":
+			[
+				255,
+				255,
+				0
+			]
+		},
+		{
+			"colorName": "Yellow Green",
+			"colorKey": "W3C146",
+			"components":
+			[
+				154,
+				205,
+				50
+			]
+		}
+	]
+}

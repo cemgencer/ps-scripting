@@ -1,0 +1,46 @@
+These script are for Photoshop CS3 or better.
+Can be installed in either Windows or Mac
+
+
+To install:
+
+If Windows Vista or Windows 7 you will need to run Photoshop as Administrator to install these scripts.
+Right click on Photoshop and select Run as administrator.
+
+In Photoshop
+Files - Scripts - Browse
+Browse to the folder where you have unziped "Manual Batch.zip" and select Install
+
+A Message will then be given when all is installed.
+
+Six actions will be created in your action palette, make sure you are in button mode.
+From the action palette fly out menu select "Button Mode"
+
+
+
+To use:
+
+Manual Batch
+This is the main setup script
+Select files / actions, and destination folder etc and select Process.
+This will open the first document
+You can now work on this document and do what you wish.
+
+MB Next
+This script will save the document in the selected format(s), close the document and open the next document.
+Once the last document has been saved a reset is done so that Manual Batch can be run fron the start.
+
+MB Previous
+This script will save the document in the selected format(s), close the document and open the previous document.
+
+MB Skip to Next
+This script will close the current document without saving and open the next document.
+
+MB Skip to Previous
+This script will close the current document without saving and open the previous document.
+
+MB Reset
+This script resets all variables so that Manual Batch may be run from the start.
+
+N.B. Manual Batch remembers all the details so you can stop and start as you wish, even continue after a machine re-boot.
+
